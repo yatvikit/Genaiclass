@@ -1,0 +1,52 @@
+I am a passionate **Senior Technical Trainer, Corporate Trainer, and Assistant Professor** with expertise in **Artificial Intelligence (AI), Generative AI, Agentic AI, Machine Learning, Data Science, Python, FastAPI, and Full-Stack Development (MERN Stack)**. I am committed to bridging the gap between academia and industry by delivering hands-on, project-based training that equips learners with practical, future-ready skills.
+
+With extensive experience in training **students, faculty members, working professionals, and corporate teams**, I have designed and delivered industry-oriented programs through classroom sessions, online learning, corporate workshops, Faculty Development Programs (FDPs), bootcamps, and customized enterprise training.
+
+My expertise includes designing and developing intelligent AI solutions using the latest technologies, including **Natural Language Processing (NLP), Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, AI Agents, Multi-Agent Systems, Agentic AI, FastAPI, and open-source LLM frameworks**. I build scalable AI applications by integrating **ChatGPT, Gemini, Claude, and open-source models** to solve real-world business and educational challenges.
+
+I have hands-on experience developing:
+
+* AI Chatbots & Virtual Assistants
+* RAG-based Knowledge Assistants
+* AI Copilots
+* Agentic AI Applications
+* Single-Agent & Multi-Agent AI Systems
+* Intelligent Document Processing Solutions
+* AI Workflow Automation
+* Recommendation Systems
+* Predictive Analytics Applications
+* Computer Vision Solutions
+* REST APIs using FastAPI
+* End-to-End AI Applications with Python
+
+### **Core Technical Skills**
+
+* Artificial Intelligence (AI)
+* Generative AI
+* Agentic AI
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* LangGraph
+* AI Agents & Multi-Agent Systems
+* Model Context Protocol (MCP)
+* Python Programming
+* FastAPI
+* MERN Stack Development
+* Data Science & Data Analytics
+* SQL & Database Management
+* Power BI & Data Visualization
+* TensorFlow, PyTorch & Scikit-learn
+* Computer Vision
+* Vector Databases (FAISS, ChromaDB, Pinecone)
+* Ollama & Open-Source LLM Deployment
+* Docker, Git & Cloud-Based AI Development
+
+I enjoy mentoring aspiring AI professionals, designing industry-aligned curricula, guiding research and capstone projects, conducting technical workshops, and helping organizations adopt modern AI technologies. My focus is on creating practical learning experiences that empower individuals and teams to build production-ready AI solutions.
+
+I am always excited to connect with professionals, educators, organizations, and technology enthusiasts interested in **Artificial Intelligence, Generative AI, Agentic AI, LLMs, RAG, AI Agents, Multi-Agent Systems, FastAPI, Data Science, Machine Learning, NLP, and Full-Stack Development**.
+
+**Let's connect to collaborate on AI innovation, corporate training, technical workshops, consulting, research, and building the next generation of intelligent AI applications.**

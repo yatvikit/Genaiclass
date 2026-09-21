@@ -1,0 +1,13 @@
+langchain
+ipykernel
+langchain_google_genai
+python-dotenv
+langchain_groq
+langchain_core
+langchain_community
+pypdf
+beautifulsoup4
+youtube-transcript-api
+sentence-transformers
+langchain-text-splitters
+langchain_chroma
