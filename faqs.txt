@@ -1,0 +1,489 @@
+=========================================================
+  VECTOR INDIA — DATA SCIENCE WITH GENERATIVE AI & AGENTIC SYSTEMS
+  TOP 100 FREQUENTLY ASKED QUESTIONS & ANSWERS
+=========================================================
+Website   : www.vectorindia.org
+Email     : info@vectorindia.org
+Phone     : +91 98666 66699
+Course Fee: Rs. 56,000
+=========================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: ABOUT THE COURSE & ORGANIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q1. What is Vector India?
+A. Vector India (VECTOR Institute) is one of India's leading industry-focused training institutes
+   with centers in Hyderabad, Bangalore, and Chennai. It is known for application-oriented,
+   placement-driven programs. Visit www.vectorindia.org for more details.
+
+Q2. What is the "Data Science with Generative AI & Agentic Systems" course?
+A. It is a complete, structured industry program that takes students from Python basics all the
+   way to production-grade Machine Learning, Generative AI, and Agentic Systems — with no prior
+   experience required.
+
+Q3. How long is the course?
+A. The core Data Science program runs for 6+ months. In addition, there are 4 months of
+   parallel classes covering Aptitude and Communication skills, making the total program
+   approximately 10 months.
+
+Q4. What is the course fee?
+A. The course fee is Rs. 56,000.
+
+Q5. Are there any scholarships or fee concessions available?
+A. Vector India conducts an Online Scholarship Test. You can apply at
+   www.vectorindia.org/registration to check eligibility for fee concessions.
+
+Q6. What are the available training locations?
+A. The course is available at Hyderabad, Bangalore, Chennai, and Online mode.
+
+Q7. What makes Vector India different from other institutes?
+A. Vector India has an unbeatable placement record, application-oriented curriculum, regular mock
+   interviews, weekly assessments, and industry partnerships with top MNCs like Bosch, L&T,
+   Capgemini, Wipro, and many more.
+
+Q8. Is this course available online?
+A. Yes, the course is available in both classroom (at Hyderabad, Bangalore, Chennai) and online
+   modes.
+
+Q9. Who should enroll in this course?
+A. This course is ideal for fresh graduates, final-year students, working professionals wanting
+   to switch careers, and anyone interested in Data Science, AI, or Machine Learning — no prior
+   experience is required.
+
+Q10. What is the contact information for Vector India?
+A.  Email : info@vectorindia.org
+    Phone : +91 98666 66699
+    Website: www.vectorindia.org
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: COURSE STRUCTURE & SCHEDULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q11. How many days per week are the classes held?
+A. Classes are held 6 days per week.
+
+Q12. How many hours of training are there per day?
+A. 3.5 to 5 hours daily — comprising 1.5 to 3 hours of theory and 2 hours of hands-on coding.
+
+Q13. How many phases does the curriculum cover?
+A. The curriculum is divided into 9 phases, covering 130+ topics.
+
+Q14. What are the 9 phases of the curriculum?
+A. 1. Python Programming Foundations
+   2. Data Analysis & Visualization
+   3. Mathematics for Data Science
+   4. Machine Learning — Core Algorithms
+   5. Deep Learning & Computer Vision
+   6. NLP, Transformers & Large Language Models
+   7. Generative AI & Agentic Systems
+   8. MLOps & Model Deployment
+   9. Capstone Project — Industry Grade
+
+Q15. Are there weekly tests and assignments?
+A. Yes. Graded assignments and assessments are conducted every week to track progress and
+   reinforce concepts.
+
+Q16. Are mock interviews part of the program?
+A. Yes. Regular technical mock interviews with detailed feedback are included throughout the
+   program.
+
+Q17. What are the parallel classes offered alongside the main course?
+A. For 4 months (running in parallel with the main course), students attend classes on Mathematics for Datascience, SQL, Mongodb, FastAPI, git, pydantic python, streamlit, power bi,
+   Aptitude and Communication skills — essential for cracking job interviews.
+
+Q18. What topics are covered in the Aptitude classes?
+A. Aptitude training typically covers quantitative reasoning, logical reasoning, data
+   interpretation, verbal ability, and problem-solving — aligned to industry placement tests.
+
+Q19. What is covered in the Communication classes?
+A. Communication training covers spoken English, professional writing, interview etiquette,
+   group discussions, and workplace communication skills.
+
+Q20. Is the course suitable for complete beginners?
+A. Absolutely. The program starts from Python basics and requires no prior programming or
+   data science experience.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: PHASE 1 — PYTHON PROGRAMMING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q21. What Python topics are covered in Phase 1?
+A. Core syntax, variables, data types, operators, loops, conditionals, string manipulation,
+   list comprehensions, data structures (lists, tuples, sets, dictionaries), searching & sorting
+   algorithms, stack & queue, time complexity (Big-O), functions, recursion, lambda, map/filter/
+   reduce, decorators, generators, OOP (classes, inheritance), exception handling, and file I/O.
+
+Q22. Will I learn Object-Oriented Programming (OOP) in Python?
+A. Yes. OOP — including classes, objects, inheritance, and encapsulation — is a dedicated topic
+   in Phase 1.
+
+Q23. What is the outcome of Phase 1?
+A. You will have a strong Python coding foundation suitable for building ML and AI backend systems.
+
+Q24. Are data structures and algorithms covered?
+A. Yes. Lists, tuples, sets, dictionaries, searching & sorting algorithms, stacks, queues, and
+   Big-O time complexity are all covered in Phase 1.
+
+Q25. Will I learn about virtual environments and package management?
+A. Yes. Virtual environments and pip are covered in the Advanced Python section of Phase 1.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PHASE 2 — DATA ANALYSIS & VISUALIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q26. Which libraries are covered in data analysis?
+A. NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, and MongoDB.
+
+Q27. Is Power BI covered in the course?
+A. Yes. Power BI (reports, dashboards, DAX measures, calculated columns, data storytelling,
+   KPI design) and Google Looker Studio are covered in Phase 2.
+
+Q28. What database skills will I gain?
+A. SQL (joins, subqueries, window functions) and MongoDB (CRUD operations and aggregation
+   pipelines) are covered in Phase 2.
+
+Q29. What Pandas skills are taught?
+A. DataFrames & Series, data cleaning & imputation, feature engineering, merging & reshaping
+   data, GroupBy & aggregations, and datetime data handling.
+
+Q30. What is the outcome of Phase 2?
+A. Industry-ready data handling, wrangling, and visual storytelling skills using both code-based
+   and BI tools.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: PHASE 3 — MATHEMATICS FOR DATA SCIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q31. Is mathematics knowledge required before joining the course?
+A. No. The course teaches all the mathematics needed — from basics to advanced topics — as part
+   of Phase 3.
+
+Q32. What mathematics topics are covered?
+A. Probability theory, Bayes' theorem, distributions (normal, binomial, Poisson), sampling,
+   central limit theorem, descriptive & inferential statistics, hypothesis testing, confidence
+   intervals, chi-square, ANOVA, A/B testing, linear algebra (vectors, matrices, eigenvalues),
+   derivatives, gradient descent, and partial derivatives.
+
+Q33. Will I learn statistics for machine learning?
+A. Yes. Phase 3 covers hypothesis testing, p-values, confidence intervals, A/B testing, and all
+   foundational statistics required for ML model evaluation.
+
+Q34. Is gradient descent taught mathematically?
+A. Yes. Derivatives, partial derivatives, and the intuition behind gradient descent are covered
+   in the Calculus section of Phase 3.
+
+Q35. What is the outcome of Phase 3?
+A. Mathematical confidence to understand, implement, and explain ML and DL models from scratch.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: PHASE 4 — MACHINE LEARNING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q36. Which ML algorithms are taught?
+A. Supervised: Linear & Logistic Regression, Ridge & Lasso, KNN, Decision Trees, Random Forests,
+   Gradient Boosting (XGBoost), SVM, Naive Bayes, Ensemble methods.
+   Unsupervised: K-Means, Hierarchical Clustering, DBSCAN, PCA, t-SNE, Anomaly Detection.
+
+Q37. Which library is used for Machine Learning?
+A. Scikit-learn is the primary ML library used in Phase 4.
+
+Q38. Is model evaluation and hyperparameter tuning covered?
+A. Yes. Cross-validation, GridSearch hyperparameter tuning, feature selection, bias-variance
+   tradeoff, evaluation metrics, and dealing with imbalanced datasets (SMOTE) are all covered.
+
+Q39. Will I build hands-on ML projects?
+A. Yes. Hands-on ML mini projects are part of Phase 4.
+
+Q40. What is the outcome of Phase 4?
+A. You will have the confidence to build, evaluate, and explain any ML model in production
+   and in technical interviews.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: PHASE 5 — DEEP LEARNING & COMPUTER VISION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q41. Which Deep Learning frameworks are taught?
+A. PyTorch and TensorFlow are both covered in Phase 5.
+
+Q42. What Computer Vision topics are included?
+A. CNNs (Conv, Pool, Flatten layers), image augmentation, transfer learning (ResNet,
+   EfficientNet), object detection (YOLO), image segmentation, Vision Transformers (ViT),
+   and face recognition.
+
+Q43. Is transfer learning taught?
+A. Yes. Transfer learning using pre-trained models like ResNet and EfficientNet is covered
+   in Phase 5.
+
+Q44. Is YOLO (object detection) part of the course?
+A. Yes. YOLO-based object detection is covered as part of Computer Vision in Phase 5.
+
+Q45. What is the outcome of Phase 5?
+A. You will be able to build real-world image-based AI systems from scratch.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: PHASE 6 — NLP, TRANSFORMERS & LLMs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q46. What NLP topics are covered?
+A. Text preprocessing, tokenization, Bag-of-Words, TF-IDF, Word2Vec, GloVe, sentiment analysis,
+   named entity recognition (NER), text classification, RNN, LSTM, GRU, Bidirectional RNNs,
+   Encoder-Decoder architecture, attention mechanism, and chatbot development.
+
+Q47. Are Transformers and BERT/GPT covered?
+A. Yes. Transformer fundamentals, BERT & fine-tuning, GPT series, and HuggingFace pipelines are
+   all covered in Phase 6.
+
+Q48. Is RAG (Retrieval-Augmented Generation) taught in this course?
+A. Yes. RAG design and implementation is covered in both Phase 6 (NLP) and Phase 7 (GenAI).
+
+Q49. Will I learn prompt engineering?
+A. Yes. Prompt engineering is covered in Phase 6 as part of working with LLMs.
+
+Q50. Is fine-tuning of LLMs taught?
+A. Yes. LLM fine-tuning using LoRA and QLoRA is covered in Phase 6.
+
+Q51. Will I learn to use OpenAI and Claude APIs?
+A. Yes. Working with OpenAI and Claude APIs is covered in Phase 6.
+
+Q52. Are embeddings and vector search covered?
+A. Yes. Embeddings and vector search are part of the NLP & LLM section in Phase 6.
+
+Q53. What is the outcome of Phase 6?
+A. You will be able to build, fine-tune, and deploy language AI systems confidently.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: PHASE 7 — GENERATIVE AI & AGENTIC SYSTEMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q54. What Generative AI topics are covered?
+A. GANs, Diffusion models, Stable Diffusion architecture, image generation pipelines,
+   text-to-image systems, and multimodal generation.
+
+Q55. What vector databases are taught?
+A. Pinecone, FAISS, and Chroma are covered as part of the Embeddings & Retrieval section.
+
+Q56. Is LangChain covered in this course?
+A. Yes. LangChain fundamentals are covered in Phase 7 as a core tool for agentic systems.
+
+Q57. What is LangGraph and is it taught?
+A. LangGraph is a framework for building stateful, multi-step AI agents. It is covered in
+   Phase 7 as part of Agentic Systems design.
+
+Q58. What are Agentic Systems?
+A. Agentic Systems are AI systems that autonomously plan, use tools, make decisions, and
+   complete complex tasks without constant human input. Phase 7 covers autonomous agent design,
+   tool use, function calling, multi-agent pipelines, and more.
+
+Q59. Is OpenAI Agents SDK covered?
+A. Yes. The OpenAI Agents SDK is covered in Phase 7.
+
+Q60. What is the outcome of Phase 7?
+A. You will be able to design and build autonomous AI systems that power modern AI products.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: PHASE 8 — MLOPS & DEPLOYMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q61. What MLOps tools are taught?
+A. Git & GitHub, DVC (Data Version Control), MLflow, FastAPI, Docker, and GitHub Actions (CI/CD).
+
+Q62. Will I learn to deploy ML models as APIs?
+A. Yes. Building and securing REST APIs using FastAPI (including JWT and RBAC security) is
+   covered in Phase 8.
+
+Q63. Is Docker covered in the course?
+A. Yes. Docker fundamentals and Dockerizing ML applications are covered in Phase 8.
+
+Q64. What is CI/CD and is it taught?
+A. CI/CD (Continuous Integration / Continuous Deployment) automates testing and deployment of
+   code. GitHub Actions-based CI/CD pipelines are covered in Phase 8.
+
+Q65. Is MLflow experiment tracking taught?
+A. Yes. MLflow is covered in Phase 8 and also used during the Capstone Project.
+
+Q66. What is the outcome of Phase 8?
+A. You will be able to deploy and maintain production-grade AI models like a professional
+   ML Engineer.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11: PHASE 9 — CAPSTONE PROJECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q67. What is the Capstone Project?
+A. It is an industry-grade end-to-end AI project covering: real-world problem statement, data
+   collection & pipeline, EDA, feature engineering, model building, Generative AI or Agentic
+   component, MLflow tracking, FastAPI backend, Streamlit/Power BI dashboard, Docker
+   containerization, and cloud deployment.
+
+Q68. Will my project be deployed to the cloud?
+A. Yes. Cloud deployment is a required part of the Capstone Project.
+
+Q69. Will the Capstone Project be portfolio-ready?
+A. Yes. The Capstone is specifically designed as a job-winning, fully deployed AI portfolio
+   project for top industry roles.
+
+Q70. Is GitHub portfolio setup included?
+A. Yes. GitHub portfolio setup, resume preparation guidance, and technical interview preparation
+   are all part of the Capstone phase.
+
+Q71. What is the outcome of Phase 9?
+A. A fully deployed, portfolio-ready AI system plus career preparation — covering GitHub
+   portfolio, resume, and mock interviews with feedback.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 12: PLACEMENTS & CAREER OUTCOMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q72. Does Vector India provide placement assistance?
+A. Yes. Vector India provides dedicated placement support including mock interviews, resume
+   guidance, and direct connections with hiring MNCs.
+
+Q73. Which companies hire from Vector India?
+A. Top companies that have hired from Vector India include L&T, Bosch, Capgemini, Wipro,
+   Valeo, Harman, Siemens, Tech Mahindra, Huawei, Honeywell, Tata Elxsi, and many more.
+
+Q74. What job roles can I target after completing this course?
+A. Data Scientist, ML Engineer, AI Engineer, NLP Engineer, Generative AI Developer, MLOps
+   Engineer, Data Analyst, AI Product Developer, and LLM Application Developer.
+
+Q75. Does Vector India have a strong placement track record?
+A. Yes. Based on Jan 2025 – Feb 2026 data, Vector India has placed students at hundreds of
+   MNCs including top global companies.
+
+Q76. Will I be job-ready after 10 months (6 months + 4 months parallel)?
+A. Yes. The program is designed to make you completely job-ready with technical skills,
+   aptitude, communication, mock interviews, and a live deployed portfolio project.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 13: TOOLS & TECHNOLOGIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q77. What programming languages are taught?
+A. Python is the primary language, along with SQL for databases.
+
+Q78. Which AI/ML frameworks will I learn?
+A. Scikit-learn, PyTorch, TensorFlow, HuggingFace Transformers, LangChain, LangGraph, and
+   OpenAI/Claude APIs.
+
+Q79. What cloud or deployment tools are covered?
+A. Docker, FastAPI, GitHub Actions (CI/CD), MLflow, DVC, and cloud deployment as part of
+   the Capstone Project.
+
+Q80. What visualization and BI tools are taught?
+A. Matplotlib, Seaborn, Plotly, Power BI, and Google Looker Studio.
+
+Q81. Is Streamlit taught for dashboards?
+A. Yes. Streamlit is used as a dashboard tool in the Capstone Project.
+
+Q82. Are vector databases covered?
+A. Yes — Pinecone, FAISS, and Chroma are all covered in Phase 7.
+
+Q83. What is the tech stack for building AI agents?
+A. LangChain, LangGraph, OpenAI Agents SDK, function calling/tool use, and multi-agent
+   pipeline design.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 14: LEARNING OUTCOMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q84. What will I be able to do after completing this course?
+A. 1. Write clean, efficient Python code using core syntax, OOP, and data structures.
+   2. Perform end-to-end data analysis, wrangling, and visualization.
+   3. Build, evaluate, and explain any ML or DL model.
+   4. Build RAG pipelines, fine-tune LLMs, and design multi-agent autonomous systems.
+   5. Deploy a full AI system — from data ingestion to model, API, dashboard, and cloud.
+
+Q85. Will I be able to build Generative AI applications after this course?
+A. Yes. You will be trained in RAG, prompt engineering, LLM fine-tuning, image generation
+   (GANs, Diffusion), and end-to-end GenAI product development.
+
+Q86. Will I know how to build AI Agents?
+A. Yes. Autonomous agent design, LangChain, LangGraph, multi-agent pipelines, and tool use
+   are all covered in Phase 7.
+
+Q87. Can I explain ML models to non-technical stakeholders after the course?
+A. Yes. The course emphasizes conceptual understanding alongside technical implementation,
+   preparing you to explain models in both interviews and business contexts.
+
+Q88. Will I be able to build and deploy a complete AI product end-to-end?
+A. Yes. The Capstone Project covers every stage: data → model → API → dashboard → cloud
+   → portfolio.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 15: ADMISSIONS & GENERAL QUERIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q89. How do I enroll in the course?
+A. You can apply online at www.vectorindia.org/admissions.html or call +91 98666 66699 or
+   email info@vectorindia.org to start the admission process.
+
+Q90. Is there an entrance test to join this course?
+A. There is no mandatory entrance test. However, you can take the Vector Online Scholarship Test
+   at www.vectorindia.org/registration to qualify for fee concessions.
+
+Q91. Are installment options available for the course fee?
+A. For EMI or installment options, please contact Vector India directly at +91 98666 66699 or
+   info@vectorindia.org.
+
+Q92. What are the eligibility criteria for this course?
+A. The course is open to anyone — fresh graduates, final-year students, or working
+   professionals. No prior programming or AI experience is required.
+
+Q93. Does Vector India provide a certificate upon completion?
+A. Yes. Vector India awards a course completion certificate upon successfully finishing the
+   program.
+
+Q94. Can I switch to classroom mode from online mode (or vice versa)?
+A. Please contact Vector India directly at info@vectorindia.org or +91 98666 66699 to discuss
+   batch and mode change requests.
+
+Q95. Does Vector India offer corporate training?
+A. Yes. Vector India offers corporate training programs. Visit
+   www.vectorindia.org/corporate-training.html for details.
+
+Q96. Where are Vector India's training centers located?
+A. Hyderabad, Bangalore, and Chennai. Online training is also available.
+
+Q97. Are there any other short-term courses available at Vector India?
+A. Yes. Vector India also offers short-term courses in Embedded Systems, Automotive Embedded,
+   AUTOSAR, Python, Embedded C, Device Drivers, IoT, and Workshops. See www.vectorindia.org
+   for details.
+
+Q98. What is the batch size for this course?
+A. For specific batch size details, please contact Vector India at +91 98666 66699 or
+   info@vectorindia.org.
+
+Q99. Can I view the student gallery or testimonials?
+A. Yes. Visit www.vectorindia.org/photogallery.html to view the gallery, and check
+   the placements page at www.vectorindia.org/placements.html for student outcomes.
+
+Q100. How is this course different from online self-learning platforms like Coursera or Udemy?
+A. Vector India offers structured classroom / live-online instruction by industry trainers,
+   weekly graded assessments, regular mock interviews with feedback, 4 months of parallel
+   aptitude and communication training, dedicated placement support with MNC tie-ups, and a
+   fully mentored Capstone Project — making it a complete job-readiness program rather than
+   just video content.
+
+
+=========================================================
+  For admissions & enquiries:
+  Phone   : +91 98666 66699
+  Email   : info@vectorindia.org
+  Website : www.vectorindia.org
+=========================================================
