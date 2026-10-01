@@ -11,3 +11,7 @@ youtube-transcript-api
 sentence-transformers
 langchain-text-splitters
 langchain_chroma
+rank_bm25
+sqlalchemy<2.0
+pymysql
+tavily
